@@ -5,10 +5,7 @@ Each project is designed to improve problem-solving skills, coding style, and ha
 
 ## Projects Included
 - 🎮 Tic Tac Toe (console-based & GUI variations)
-- 🧮 Calculator
-- 📅 To-Do List App
-- 🌦️ Weather App (API integration demo)
-- 🔢 Number Guessing Game
+- Importance of Hahing algorithm while storing password
 - ...and more to come
 
 ## Purpose
