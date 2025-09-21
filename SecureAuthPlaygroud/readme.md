@@ -2,7 +2,7 @@
 
 Passwords are like **keys to your digital life**. This project demonstrates how to keep them safe. I built a system that stores passwords in **secure “digital safes”** using industry-standard algorithms like **Bcrypt** and **Argon2**. I also created a simple **toy hasher** to show why weak hashing methods fail. Even if someone steals the database, properly hashed passwords remain practically impossible to crack.
 
-This is a **C# console app** that lets you register users, login, and see firsthand how secure password handling works — plus it comes with **automated xUnit tests** to cover edge cases.
+This is a **C# console app** that lets you register users, login, and see firsthand how secure password handling works, plus it comes with **automated xUnit tests** to cover edge cases.
 
 ---
 
@@ -81,7 +81,7 @@ git clone <your-repo-url>
 
 * Never store passwords in plain text.
 * Use strong hashing algorithms with salts (and optionally peppers) to protect user data.
-* Weak hashing is educational only — never use it in production.
+* Weak hashing is educational only, never use it in production.
 * Interactive demos like this make security concepts easy to understand for anyone.
 
 ---
