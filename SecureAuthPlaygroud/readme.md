@@ -2,8 +2,8 @@
 
 Passwords are like **keys to your digital life**. This project demonstrates how to keep them safe. I built a system that stores passwords in **secure “digital safes”** using industry-standard algorithms like **Bcrypt** and **Argon2**. I also created a simple **toy hasher** to show why weak hashing methods fail. Even if someone steals the database, properly hashed passwords remain practically impossible to crack.
 
-Youtube: https://www.youtube.com/watch?v=wEkhclIvtoo
-Blog: https://amirmustafaofficial.medium.com/securely-storing-passwords-in-it-development-8baee117b33c
+- **YouTube Tutorial:** [Securely Storing Passwords](https://www.youtube.com/watch?v=wEkhclIvtoo)
+- **Blog Article:** [Securely Storing Passwords in IT Development](https://amirmustafaofficial.medium.com/securely-storing-passwords-in-it-development-8baee117b33c)
 
 This is a **C# console app** that lets you register users, login, and see firsthand how secure password handling works, plus it comes with **automated xUnit tests** to cover edge cases.
 
