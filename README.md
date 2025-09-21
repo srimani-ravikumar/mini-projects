@@ -15,11 +15,7 @@ Each project is designed to improve problem-solving skills, coding style, and ha
 
 ## Tech Stack
 Projects are implemented using different languages & frameworks to explore:
-- Python
-- Java
 - C#
-- JavaScript (Vanilla + DOM)
-- HTML/CSS (for UI-based mini projects)
 
 ---
 ⚠️ **Note:** These are practice/starter projects – simple by design, focused on learning rather than production readiness.
