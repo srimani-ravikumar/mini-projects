@@ -1,5 +1,3 @@
----
-
 # SecureAuth Playground
 
 **Think of user passwords as valuable keys.** My project locks them inside **unbreakable digital safes** (bcrypt and Argon2). I also created a **toy lock** to show why weak methods fail. Even if a hacker steals the database, these strong locks make it nearly impossible to access user data.
