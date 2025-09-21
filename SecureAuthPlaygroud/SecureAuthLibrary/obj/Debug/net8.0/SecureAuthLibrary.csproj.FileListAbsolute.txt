@@ -1,0 +1,13 @@
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.AssemblyInfoInputs.cache
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.AssemblyInfo.cs
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.csproj.CoreCompileInputs.cache
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.sourcelink.json
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\bin\Debug\net8.0\SecureAuthLibrary.deps.json
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\bin\Debug\net8.0\SecureAuthLibrary.dll
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\bin\Debug\net8.0\SecureAuthLibrary.pdb
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.csproj.AssemblyReference.cache
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.dll
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\refint\SecureAuthLibrary.dll
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\SecureAuthLibrary.pdb
+D:\Myself\Github_Cleanup\git_repo_mini-projects\New folder\SecureAuthLibrary\obj\Debug\net8.0\ref\SecureAuthLibrary.dll
