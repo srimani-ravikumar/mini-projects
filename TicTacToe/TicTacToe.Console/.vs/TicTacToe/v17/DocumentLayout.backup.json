@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.Console.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe\\tictactoe.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.Console.csproj|solutionrelative:tictactoe.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.Console.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe\\tictactoe.console.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.Console.csproj|solutionrelative:tictactoe.console.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E66D0-C784-4FC5-9792-F83402EDA5EA}|..\\TicTacToe.Tests\\TicTacToe.Tests.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.tests\\boardtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BD2B9-BBE0-4DEF-AA6D-9DD8A37B7984}|..\\TicTacToe.Core\\TicTacToe.Core.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.core\\boardrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BD2B9-BBE0-4DEF-AA6D-9DD8A37B7984}|..\\TicTacToe.Core\\TicTacToe.Core.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E66D0-C784-4FC5-9792-F83402EDA5EA}|..\\TicTacToe.Tests\\TicTacToe.Tests.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E66D0-C784-4FC5-9792-F83402EDA5EA}|..\\TicTacToe.Tests\\TicTacToe.Tests.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.tests\\mockplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2183203-DD00-4C83-A06A-851E35961247}|TicTacToe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BD2B9-BBE0-4DEF-AA6D-9DD8A37B7984}|..\\TicTacToe.Core\\TicTacToe.Core.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.core\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BD2B9-BBE0-4DEF-AA6D-9DD8A37B7984}|..\\TicTacToe.Core\\TicTacToe.Core.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.core\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BD2B9-BBE0-4DEF-AA6D-9DD8A37B7984}|..\\TicTacToe.Core\\TicTacToe.Core.csproj|d:\\myself\\github_cleanup\\mini-projects\\tictactoe\\tictactoe.core\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicTacToe",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\TicTacToe.Console.csproj",
+              "RelativeDocumentMoniker": "TicTacToe.Console.csproj",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\TicTacToe.Console.csproj",
+              "RelativeToolTip": "TicTacToe.Console.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T08:46:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToe.Console.csproj",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\TicTacToe.Console.csproj",
+              "RelativeDocumentMoniker": "TicTacToe.Console.csproj",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\TicTacToe.Console.csproj",
+              "RelativeToolTip": "TicTacToe.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T08:27:22.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MockPlayer.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\MockPlayer.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Tests\\MockPlayer.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\MockPlayer.cs",
+              "RelativeToolTip": "..\\TicTacToe.Tests\\MockPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:35:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameTests.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\GameTests.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Tests\\GameTests.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\GameTests.cs",
+              "RelativeToolTip": "..\\TicTacToe.Tests\\GameTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:34:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoardTests.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\BoardTests.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Tests\\BoardTests.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Tests\\BoardTests.cs",
+              "RelativeToolTip": "..\\TicTacToe.Tests\\BoardTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:34:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoardRenderer.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\BoardRenderer.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Core\\BoardRenderer.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\BoardRenderer.cs",
+              "RelativeToolTip": "..\\TicTacToe.Core\\BoardRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:31:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\IPlayer.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Core\\IPlayer.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\IPlayer.cs",
+              "RelativeToolTip": "..\\TicTacToe.Core\\IPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:27:10.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\Board.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Core\\Board.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\Board.cs",
+              "RelativeToolTip": "..\\TicTacToe.Core\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:26:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Core\\HumanPlayer.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\HumanPlayer.cs",
+              "RelativeToolTip": "..\\TicTacToe.Core\\HumanPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:26:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\Game.cs",
+              "RelativeDocumentMoniker": "..\\TicTacToe.Core\\Game.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe.Core\\Game.cs",
+              "RelativeToolTip": "..\\TicTacToe.Core\\Game.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA0wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:25:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Myself\\Github_Cleanup\\mini-projects\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:24:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
