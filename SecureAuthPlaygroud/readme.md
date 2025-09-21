@@ -1,90 +1,87 @@
 # SecureAuth Playground
 
-**Think of user passwords as valuable keys.** My project locks them inside **unbreakable digital safes** (bcrypt and Argon2). I also created a **toy lock** to show why weak methods fail. Even if a hacker steals the database, these strong locks make it nearly impossible to access user data.
+Passwords are like **keys to your digital life**. This project demonstrates how to keep them safe. I built a system that stores passwords in **secure “digital safes”** using industry-standard algorithms like **Bcrypt** and **Argon2**. I also created a simple **toy hasher** to show why weak hashing methods fail. Even if someone steals the database, properly hashed passwords remain practically impossible to crack.
 
-This project is a **C# console application** demonstrating secure password storage and verification with industry-standard algorithms, along with an interactive login system and automated testing.
+This is a **C# console app** that lets you register users, login, and see firsthand how secure password handling works — plus it comes with **automated xUnit tests** to cover edge cases.
 
 ---
 
 ## Features
 
-* **Industry-standard hashing:**
+* **Secure Hashing Algorithms**
 
-  * **Bcrypt** – widely used, secure
-  * **Argon2** – memory-hard, highly secure
-* **Educational “Toy Hasher”** to demonstrate weak hashing and why it fails
-* **Interactive Console Demo:**
+  * **Bcrypt** – widely used, reliable
+  * **Argon2** – memory-hard and very secure
+* **Educational Toy Hasher**
 
-  * Register users
-  * Login with password masking
-  * Algorithm selection at runtime (bcrypt, Argon2, Toy)
-  * Colored feedback for success/failure
-* **Automated xUnit Tests:**
+  * Shows what happens when passwords are stored insecurely
+* **Interactive Console**
 
-  * Covers edge cases for registration and authentication
-  * Demonstrates secure verification vs weak hashing
+  * Register new users
+  * Login with password masking (asterisks)
+  * Pick which hashing algorithm to use at runtime
+  * Get colored feedback for success or failure
+* **Automated xUnit Tests**
+
+  * Check registration and login edge cases
+  * Compare secure vs insecure hashing
 
 ---
 
 ## How It Works
 
-1. **User chooses hashing algorithm** at the start (bcrypt, Argon2, or Toy).
-2. **Register:** User enters a username and password; the password is hashed with a **salt** and **pepper** before storage.
-3. **Login:** User enters credentials; the system verifies the password against the stored hash.
+1. When you start the app, you **choose which hashing algorithm** to use (Bcrypt, Argon2, or the Toy Hasher).
+2. **Register a user:** Enter a username and password. The password gets hashed with a **salt** and a **pepper** before being stored.
+3. **Login:** Enter your credentials. The system checks your password against the stored hash.
 
-   * Weak hashing (Toy Hasher) can be quickly “broken” in a demo, showing security pitfalls.
-4. **Database Simulation:** All users are stored in a simple in-memory database for demonstration purposes.
+   * Using the Toy Hasher quickly demonstrates why weak hashes are dangerous.
+4. **Database Simulation:** All user data is stored in a simple in-memory database for demo purposes.
 
 ---
 
-## Why This Project Matters
+## Why I Built This
 
-* **Demonstrates real-world security practices**: Shows how modern applications protect sensitive user data.
-* **Educational**: Clearly illustrates why weak hashing is dangerous.
-* **Recruiter-Friendly Demo**: Interactive console app, visual success/fail feedback, and easy-to-run code.
+* To **demonstrate real-world security practices** in a way anyone can understand.
+* To **teach why weak hashing fails** in an interactive, hands-on way.
+* To have a **demo that’s recruiter-friendly**, easy to run, and visually clear with success/fail feedback.
 
 ---
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone this repository:
 
 ```bash
 git clone <your-repo-url>
 ```
 
-2. Open the solution in Visual Studio or VS Code.
+2. Open the solution in **Visual Studio** or **VS Code**.
 
-3. Run the console application:
+3. Run the console app:
 
-* Select a hashing algorithm
-* Register a new user
-* Login with the registered credentials
-* Observe secure hash handling and colored feedback
+   * Pick a hashing algorithm
+   * Register a user
+   * Login with the credentials
+   * Watch the secure hashing in action
 
-4. Run **xUnit tests** to see automated verification of edge cases.
+4. Run the **xUnit tests** to see all edge cases automatically verified.
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-* **C# .NET 7+**
+* **C# .NET 8**
 * **xUnit** for unit testing
-* **Bcrypt.Net-Next** for bcrypt hashing
-* **Konscious.Security.Cryptography.Argon2** for Argon2 hashing
+* **Bcrypt.Net-Next** (Bcrypt hashing)
+* **Isopoh.Cryptography.Argon2** (Argon2 hashing)
 
 ---
 
 ## Key Takeaways
 
-* Passwords are never stored in plaintext.
-* Strong hashing algorithms with salts and optional peppers protect user data.
-* Weak algorithms are shown for educational purposes — don’t use them in production!
-* Interactive demo makes it easy for recruiters and peers to understand the security concepts.
+* Never store passwords in plain text.
+* Use strong hashing algorithms with salts (and optionally peppers) to protect user data.
+* Weak hashing is educational only — never use it in production.
+* Interactive demos like this make security concepts easy to understand for anyone.
 
 ---
-
-This README emphasizes **security understanding, interactivity, and practical demonstration**, making it very **newbie to understand**.
-
----
-
